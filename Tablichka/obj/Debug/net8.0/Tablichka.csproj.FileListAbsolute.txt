@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\bin\Debug\net8.0\Tablichka.exe
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\bin\Debug\net8.0\Tablichka.deps.json
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\bin\Debug\net8.0\Tablichka.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\bin\Debug\net8.0\Tablichka.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\bin\Debug\net8.0\Tablichka.pdb
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\Tablichka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\Tablichka.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\Tablichka.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\Tablichka.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\Tablichka.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\refint\Tablichka.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\Tablichka.pdb
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\Tablichka.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\Tablichka\obj\Debug\net8.0\ref\Tablichka.dll

@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\net8.0\TriugulnikNaPaskal.exe
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\net8.0\TriugulnikNaPaskal.deps.json
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\net8.0\TriugulnikNaPaskal.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\net8.0\TriugulnikNaPaskal.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\bin\Debug\net8.0\TriugulnikNaPaskal.pdb
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\TriugulnikNaPaskal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\TriugulnikNaPaskal.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\TriugulnikNaPaskal.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\TriugulnikNaPaskal.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\TriugulnikNaPaskal.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\refint\TriugulnikNaPaskal.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\TriugulnikNaPaskal.pdb
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\TriugulnikNaPaskal.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\TriugulnikNaPaskal\obj\Debug\net8.0\ref\TriugulnikNaPaskal.dll

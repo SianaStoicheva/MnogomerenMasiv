@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\bin\Debug\net8.0\MaximalnaPliohtadka.exe
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\bin\Debug\net8.0\MaximalnaPliohtadka.deps.json
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\bin\Debug\net8.0\MaximalnaPliohtadka.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\bin\Debug\net8.0\MaximalnaPliohtadka.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\bin\Debug\net8.0\MaximalnaPliohtadka.pdb
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\MaximalnaPliohtadka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\MaximalnaPliohtadka.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\MaximalnaPliohtadka.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\MaximalnaPliohtadka.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\MaximalnaPliohtadka.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\refint\MaximalnaPliohtadka.dll
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\MaximalnaPliohtadka.pdb
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\MaximalnaPliohtadka.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\MnogomerniMasivi\MaximalnaPliohtadka\obj\Debug\net8.0\ref\MaximalnaPliohtadka.dll
